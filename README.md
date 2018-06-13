@@ -1,5 +1,5 @@
 # Flow Regimes Demo
-## Run: [Flow Regimes](https://mybinder.org/v2/gh/charkow/flow_regimes_demo/master?urlpath=lab)
+## Run: [Flow Regimes](https://mybinder.org/v2/gh/charkow/flow_regimes_demo/master?urlpath=lab/tree/index.ipynb)
 
 ## Usage:
 - Run: Kernel --> Restart Kernel and Run All Cells
