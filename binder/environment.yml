@@ -1,0 +1,13 @@
+name: flow_regimes_demo_env
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.6
+  - numpy=1.14
+  - pandas=0.23
+  - nodejs=8.11
+  - jupyterlab=0.32
+  - ipywidgets=7.2
+  - bqplot=0.10.5
+
